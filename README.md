@@ -9,7 +9,7 @@
 - 💬 Ask me about **JAVA,SPRING BOOT**
 - ⚡ Fun fact **Anime has a way of weaving magic into every frame**
 
-
+<img align="right" alt="coding_boy" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
   <div align="center"> 
   <a href="mailto:adi14yadav@gmail.com">
